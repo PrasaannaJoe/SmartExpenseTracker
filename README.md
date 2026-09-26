@@ -8,18 +8,7 @@ over) your limit, and which category you're spending the most on.
 to your data instead of just displaying it. That's a very common,
 very hireable skill.
 
-## How to run it
 
-1. Open a terminal inside this folder.
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Start the app:
-   ```
-   npm run dev
-   ```
-4. Open the link shown in the terminal (usually `http://localhost:5173`).
 
 ## Project structure
 
